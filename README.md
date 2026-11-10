@@ -1,6 +1,6 @@
 # Calculadora de IMC — Jetpack Compose
 
-Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Android da Fatec, com o objetivo de criar uma calculadora de Índice de Massa Corporal (IMC), utilizando conceitos de interface declarativa do Jetpack Compose.
+Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento de Dispositivos Móveis da Fatec, com o objetivo de criar uma calculadora de Índice de Massa Corporal (IMC), utilizando conceitos de interface declarativa do Jetpack Compose.
 
 ## Objetivo
 
