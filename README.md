@@ -52,3 +52,14 @@ Análise e Desenvolvimento de Sistemas — Fatec Ferraz de Vasconcelos.
 ---
 
 Projeto desenvolvido para fins acadêmicos e de aprendizagem.
+
+## 📸 Capturas de tela
+
+### 1. Tela inicial — campos vazios
+![Tela inicial](screenshots/calculadora-imc-vazia.png)
+
+### 2. Calculadora com valores preenchidos
+![Cálculo do IMC](screenshots/calculadora-imc-valores.png)
+
+### 3. Validação de erro
+![Mensagem de erro](screenshots/calculadora-imc-mgs-erro.png)
