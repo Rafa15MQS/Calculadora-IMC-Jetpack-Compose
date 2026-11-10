@@ -62,4 +62,4 @@ Projeto desenvolvido para fins acadêmicos e de aprendizagem.
 ![Cálculo do IMC](screenshots/calculadora-imc-valores.png)
 
 ### 3. Validação de erro
-![Mensagem de erro](screenshots/calculadora-imc-mgs-erro.png)
+![Mensagem de erro](screenshots/calculadora-imc-msg-erro.png)
